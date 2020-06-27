@@ -17,31 +17,7 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark pr-xl-5">
-  <a class="navbar-brand" href="index.html">Ridgeside, Tennessee</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav mr-auto"></ul>
-    <ul class="navbar-nav">
-      <li class="nav-item">
-          <a class="nav-link" href="AboutRidgeside.html">About</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="gallery.html">Gallery</a>
-      </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Government</a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="resources/Ridgeside-Charter.pdf">City Charter</a>
-            <a class="dropdown-item" href="OrdRes.html">Ordinances</a>
-            <a class="dropdown-item" href="Services.html">Services</a>
-          </div>
-      </li>
-    </ul>
-  </div>
-</nav>
+<?php include 'includes/nav.php';?>
 
 <div class="container">
 
@@ -92,10 +68,12 @@
       </div>
     </div>
 
-    <footer class="text-center p-3">&copy; Copyright 2020</footer>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<?php include 'includes/copyright.php';?>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
 </body>
 </html>

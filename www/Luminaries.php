@@ -16,32 +16,7 @@
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/berkshire-swash:n4:default.js" type="text/javascript"></script>
 </head>
 <body>
-
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark pr-xl-5">
-  <a class="navbar-brand" href="index.html">Ridgeside, Tennessee</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav mr-auto"></ul>
-    <ul class="navbar-nav">
-      <li class="nav-item">
-          <a class="nav-link" href="AboutRidgeside.html">About</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="gallery.html">Gallery</a>
-      </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Government</a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="resources/Ridgeside-Charter.pdf">City Charter</a>
-            <a class="dropdown-item" href="OrdRes.html">Ordinances</a>
-            <a class="dropdown-item" href="Services.html">Services</a>
-          </div>
-      </li>
-    </ul>
-  </div>
-</nav>
+<?php include 'includes/nav.php';?>
 
 <div class="container-fluid">
 
@@ -114,7 +89,7 @@
 
   </div>
 
-  <footer class="text-center p-3">&copy; Copyright 2020</footer>
+  <?php include 'includes/copyright.php';?>
 
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

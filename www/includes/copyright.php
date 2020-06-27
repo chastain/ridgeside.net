@@ -1,0 +1,1 @@
+<footer class="text-center p-4">&copy; Copyright <?php echo date("Y"); ?></footer>

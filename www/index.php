@@ -16,32 +16,7 @@
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/berkshire-swash:n4:default.js" type="text/javascript"></script>
 </head>
 <body>
-
-<nav class="navbar navbar-expand-md navbar-dark bg-dark pr-xl-5">
-  <a class="navbar-brand" href="index.html">Ridgeside, Tennessee</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav mr-auto"></ul>
-    <ul class="navbar-nav">
-      <li class="nav-item">
-          <a class="nav-link" href="AboutRidgeside.html">About</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="gallery.html">Gallery</a>
-      </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Government</a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="resources/Ridgeside-Charter.pdf">City Charter</a>
-            <a class="dropdown-item" href="OrdRes.html">Ordinances</a>
-            <a class="dropdown-item" href="Services.html">Services</a>
-          </div>
-      </li>
-    </ul>
-  </div>
-</nav>
+<?php include 'includes/nav.php';?>
 
 <div class="container-fluid" id="wrapper"></div>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -78,19 +53,19 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-          <div class="thumbnail"><a href="AboutRidgeside.html"><img src="images/RdgesdeThumb-01.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
+          <div class="thumbnail"><a href="about.php"><img src="images/RdgesdeThumb-01.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
             <div class="caption">
-              <h2 class="text-center" id="subh2">About Ridgeside</h2>
+              <h2 class="text-center p-4" id="subh2">About Ridgeside</h2>
               <p class="text-left">Ridgeside’s residents voted in 1931 to incorporate on the east side of Missionary Ridge. At the time, the city of Chattanooga was several miles away on the north side of the ridge. As Chattanooga grew, it completely surrounded the community that was once a rural farm. There are no retail stores in Ridgeside. The little city is strictly a bucolic community of neighbors, and they seem to like it that way.</p>
               <p>&nbsp;</p>
-              <p class="text-center"><a href="AboutRidgeside.html" class="btn btn-primary" role="button">More About Ridgeside</a></p>
+              <p class="text-center"><a href="about.php" role="button">More About Ridgeside</a></p>
             </div>
           </div>
         </div>
         <div class="col-md-4">
-          <div class="thumbnail"><a href="Services.html"><img src="images/RdgesdeThumb-03.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
+          <div class="thumbnail"><a href="services.php"><img src="images/RdgesdeThumb-05.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
             <div class="caption">
-              <h2 class="text-center" id="subh">City Services </h2>
+              <h2 class="text-center p-4" id="subh">City Services </h2>
 
                 <h6><strong>Emergency Fire, Crime, Ambulance</strong></h3>
                 <p>911</p>
@@ -108,24 +83,26 @@
                   423-488-5273
                 </p>
 
-              <p class="text-center p-3"><a href="Services.html" class="btn btn-primary" role="button">More About City Services</a></p>
+              <p class="text-center p-3"><a href="services.php" role="button">More About City Services</a></p>
             </div>
           </div>
         </div>
       <div class="col-md-4">
-          <div class="thumbnail"><a href="TimeLine.html"><img src="images/RdgesdeThumb-05.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
+          <div class="thumbnail"><a href="history.php"><img src="images/RdgesdeThumb-03.png" alt="History" class="img-fluid rounded-circle"></a>
             <div class="caption">
-              <h2 class="text-center" id="subh4">Ridgeside Timeline</h2>
+              <h2 class="text-center p-4" id="subh4">History of Ridgeside</h2>
               <p id="column3" class="text-left"><strong>Late 1800s to early 1900s</strong>: Farmer and landowner John T. Shepherd operates the Hill Glen Dairy on the site of what became Ridgeside. </p>
               <p class="text-left"><strong>1922: </strong>John Shepherd’s son, Paul W. Shepherd begins conversion of the diary farm into a housing subdivision. </p>
               <p class="text-left"><strong>2016: </strong>Federal Emergency Management Authority (FEMA) report indicates Ridgeside has less than a one-percent chance of catastrophic flooding. </p>
-              <p class="text-center"><a href="TimeLine.html" class="btn btn-primary" role="button">More of Ridgeside's Timeline</a></p>
+              <p class="text-center">Read more <a href="history.php"  role="button">Ridgeside History</a>...</p>
             
           </div>
       </div>
   </div>
   </div>
-  <footer class="text-center p-4">&copy; Copyright 2020</footer>
+
+  <?php include 'includes/copyright.php';?>
+
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

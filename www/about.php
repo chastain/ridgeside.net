@@ -19,47 +19,23 @@
 
 </head>
 <body>
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark pr-xl-5">
-  <a class="navbar-brand" href="index.html">Ridgeside, Tennessee</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav mr-auto"></ul>
-    <ul class="navbar-nav">
-      <li class="nav-item">
-          <a class="nav-link" href="AboutRidgeside.html">About</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="gallery.html">Gallery</a>
-      </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Government</a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="resources/Ridgeside-Charter.pdf">City Charter</a>
-            <a class="dropdown-item" href="OrdRes.html">Ordinances</a>
-            <a class="dropdown-item" href="Services.html">Services</a>
-          </div>
-      </li>
-    </ul>
-  </div>
-</nav>
+<?php include 'includes/nav.php';?>
 
 <div class="container-fluid">
   <section class="container">
       <h2 class="text-center p-5">About Ridgeside</h2>
 
-      <p class="text-center"><img src="RidgesideImages/walk01.jpg" class="img-fluid rounded-circle"/></p>
+      <p class="text-center"><img src="RidgesideImages/walk01.jpg" class="img-fluid circle"/></p>
       <p class="text-left">Ridgeside began its history as the Shepherd farm on the side of Missionary Ridge. According to a 1929 newspaper article, Percy Shepherd and a group of investors seven years earlier in 1922 converted approximately 95 acres of mountainside farm land into home lots and a miniature golf course.</p>
       <p class="text-left">By 1930 they had built and sold more than 40 homes at an average cost of $19,000. They boasted their Shepherd Hills development was the first to offer natural gas east of Missionary Ridge and the houses were fireproof. The community grew. New homes were built through the years, and in the first decades of the 21st century, Ridgeside claims almost 150 residences. Ridgeside has retained a separate charter as a city. </p>
       <p class="text-left">The city consists of about 150 homes and 389 people, according to recent U.S. Census Bureau figures. The only revenue comes from property tax collections at a rate of $1.80 per $100 of assessed value. Ridgeside’s property tax rate is about 40 cents less than Chattanooga’s. The city contracts out work such as installation of speed humps on streets, park mowing and sidewalk and street repair. </p>
-      <p class="text-center"><a href="gallery.html" class="btn btn-primary" role="button">More About Ridgeside</a></p>
+      <p class="text-center"><a href="gallery.php" class="btn btn-primary" role="button">More About Ridgeside</a></p>
   </section>
 <div class="row blockDisplay">
   <div class="column_half left_half"> </div>
 </div>
 
-<footer class="text-center p-3">&copy; Copyright 2020</footer>
+<?php include 'includes/copyright.php';?>
 
 </div>
 
