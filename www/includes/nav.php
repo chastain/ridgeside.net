@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark pr-xl-5">
-  <a class="navbar-brand" href="index.php">Ridgeside, Tennessee</a>
+  <a class="navbar-brand" href="index.php"><img src="images/R.png" height="30">idgeside, Tennessee</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -17,7 +17,7 @@
       </li>
       <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Government</a>
-          <div class="dropdown-menu">
+          <div class="dropdown-menu dropdown-menu-right">
             <a class="dropdown-item" href="resources/Ridgeside-Charter.pdf">City Charter</a>
             <a class="dropdown-item" href="officials.php">Officials</a>
             <a class="dropdown-item" href="OrdRes.php">Ordinances</a>
