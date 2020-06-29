@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ordinances and Resolutions</title>
+<link rel="icon" href="images/R.png">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
@@ -14,11 +15,10 @@
 </head>
 <body>
 <?php include 'includes/nav.php';?>
+<h2 class="text-center p-4 whitestripe shadow" id="subh3">Commission Ordinances and Resolutions</h2>
 
 <div class="container">
 
-    <article class="left_article">
-      <h2 class="text-center p-5">Commission Ordinances and Resolutions</h2>
       <ul>
         <li><a href="OrdRes/MayorNotesSpring2016.pdf" target="_blank">Mayor's Newsletter 2016</a></li>
         <li><a href="OrdRes/Ridgeside.cht.pdf" target="_blank"> Ridgeside City Charter</a> (with amendments and repeal of 1925 charter)</li>
@@ -90,7 +90,6 @@
         <li><strong>STREET PARKING</strong> Please do not park your car on the street. Cars parked on the street obstruct vision, detract from the beauty of our neighborhood, and are a traffic hazard/danger to children. Street parked cars also attract nefarious non-resident villans intent upon easy pilfering. Please park in your driveway or garage. </li>
         <p></p>
       </ul>
-    </article>
 
     <div class="container">
       <div class="row">

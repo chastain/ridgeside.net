@@ -19,13 +19,8 @@
 <body>
 <?php include 'includes/nav.php';?>
 
-<div class="container-fluid" id="wrapper"></div>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-<ol class="carousel-indicators">
-  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-</ol>
+
 <div class="carousel-inner">
   <div class="carousel-item active">
     <img src="images/RdgesdeHdr-1.png" class="d-block w-100" alt="...">
@@ -46,25 +41,25 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-<article id="main">
-  <h2 class="text-center p-2" id="subh3">A city within a city</h2>
-  <p class="container p-4">Ridgeside, Tennessee: The entire population of Ridgeside could fit into the orchestra level of the surrounding Chattanooga's Tivoli Theatre — and the theatre would still be three-fifths empty. Ridgeside resident and former major Brant Mason describes his little city as a "tight community." It is a city of less than 400 people. “Everyone knows each other and we’ve always enjoyed our independence."</p>
-</article>
+
+<div class="container p-4">
+  <h5 class="text-center">Welcome to Ridgeside, Tennessee, a City within a City!</h5>
+  <p>The entire population of Ridgeside could fit into the orchestra level of the surrounding Chattanooga's Tivoli Theatre — and the theatre would still be three-fifths empty. Ridgeside resident and former major Brant Mason describes his little city as a "tight community." It is a city of less than 400 people. “Everyone knows each other and we’ve always enjoyed our independence."</p>
+</div>
 
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-          <div class="thumbnail"><a href="about.php"><img src="images/RdgesdeThumb-01.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
+          <div class="thumbnail"><a href="about.php"><img src="images/RdgesdeThumb-01.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle shadow"></a>
             <div class="caption">
               <h2 class="text-center p-4" id="subh2">About Ridgeside</h2>
               <p class="text-left">Ridgeside’s residents voted in 1931 to incorporate on the east side of Missionary Ridge. At the time, the city of Chattanooga was several miles away on the north side of the ridge. As Chattanooga grew, it completely surrounded the community that was once a rural farm. There are no retail stores in Ridgeside. The little city is strictly a bucolic community of neighbors, and they seem to like it that way.</p>
-              <p>&nbsp;</p>
-              <p class="text-center"><a href="about.php" role="button">More About Ridgeside</a></p>
+              <p class="text-center"><a href="about.php" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
         <div class="col-md-4">
-          <div class="thumbnail"><a href="services.php"><img src="images/RdgesdeThumb-05.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle"></a>
+          <div class="thumbnail"><a href="services.php"><img src="images/RdgesdeThumb-05.png" alt="Thumbnail Image 1" class="img-fluid rounded-circle shadow"></a>
             <div class="caption">
               <h2 class="text-center p-4" id="subh">City Services </h2>
 
@@ -84,18 +79,18 @@
                   423-488-5273
                 </p>
 
-              <p class="text-center p-3"><a href="services.php" role="button">More About City Services</a></p>
+              <p class="text-center p-3"><a href="services.php" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
       <div class="col-md-4">
-          <div class="thumbnail"><a href="history.php"><img src="images/RdgesdeThumb-03.png" alt="History" class="img-fluid rounded-circle"></a>
+          <div class="thumbnail"><a href="history.php"><img src="images/RdgesdeThumb-03.png" alt="History" class="img-fluid rounded-circle shadow"></a>
             <div class="caption">
               <h2 class="text-center p-4" id="subh4">History of Ridgeside</h2>
               <p id="column3" class="text-left"><strong>Late 1800s to early 1900s</strong>: Farmer and landowner John T. Shepherd operates the Hill Glen Dairy on the site of what became Ridgeside. </p>
               <p class="text-left"><strong>1922: </strong>John Shepherd’s son, Paul W. Shepherd begins conversion of the diary farm into a housing subdivision. </p>
               <p class="text-left"><strong>2016: </strong>Federal Emergency Management Authority (FEMA) report indicates Ridgeside has less than a one-percent chance of catastrophic flooding. </p>
-              <p class="text-center">Read more <a href="history.php"  role="button">Ridgeside History</a>...</p>
+              <p class="text-center"> <a href="history.php" role="button">Learn More</a></p>
             
           </div>
       </div>

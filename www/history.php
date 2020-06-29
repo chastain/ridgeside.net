@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ridgeside History</title>
+<link rel="icon" href="images/R.png">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 <link href="css/history.css" rel="stylesheet" type="text/css">
@@ -15,6 +16,8 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/berkshire-swash:n4:default.js" type="text/javascript"></script>
+
+<link href="https://fonts.googleapis.com/css2?family=The+Girl+Next+Door&display=swap" rel="stylesheet">
 
 <style>
   @media (max-width: 575.98px) { 
@@ -36,7 +39,8 @@
 <body>
 <?php include 'includes/nav.php';?>
 
-      <h2 class="text-center p-5" id="subh3">A Brief History Ridgeside</h2>
+<h2 class="text-center p-4 whitestripe shadow" id="subh3">A Brief History Ridgeside</h2>
+
       <p class="text-center">Scroll down to take a stroll through the past 100+ years of Ridgeside history.</p>
         <div class="text-center"><img class="rounded" style="max-width: 50%; and height: auto;" src="images/RdgesdeThumb-03.png"/></div>
         <div class="container">

@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Riddgeside Gallery</title>
+<link rel="icon" href="images/R.png">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 
@@ -19,16 +20,13 @@
 <script src="http://use.edgefonts.net/berkshire-swash:n4:default.js" type="text/javascript"></script>
 </head>
 <body>
-
 <?php include 'includes/nav.php';?>
 
-<div class="container-fluid" id="wrapper"></div>
+  <h2 class="text-center p-4 shadow whitestripe">Ridgeside Gallery</h2>
 
-<article id="main">
-  <h2 class="text-center p-5">Ridgeside Gallery</h2>
   <h4 class="text-center p-2">Suburban living, Urban convenience</h4>
   <p class="container p-3">A small suburban community, Ridgeside is located on the east side of historic Missionary Ridge smack dab in the middle of bustling Chattanooga. Ridgeside is only minutes by automobile to the resurgent Chattanooga downtown with its restaurants, shops, galleries, hiking and cycling trails. Erlanger, Memorial, and Parkridge hospitals are within a short drive. The Univeristy of Tennessee at Chattanooga is but seven minutes over the ridge and down McCallie Avenue from the community.</p>
-</article>
+
   <div class="container">
     <div class="row">
       <div class="col-md-4">

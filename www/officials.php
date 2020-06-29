@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ridgeside Government</title>
+<link rel="icon" href="images/R.png">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -21,9 +22,9 @@
 <body>
 <?php include 'includes/nav.php';?>
 
-<div class="container">
+<h2 class="text-center p-4 whitestripe shadow" id="subh3">Ridgeside Government Officials</h2>
 
-<h2 class="text-center p-5">Ridgeside Government</h2>
+<div class="container">
 
 <h3>Mayor</h2>
 <p>
