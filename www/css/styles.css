@@ -1,5 +1,5 @@
 a.navbar-brand {
-    font-family: berkshire-swash;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: x-large;
 }
 
@@ -16,7 +16,6 @@ body {
 .whitestripe {
     background-color:white;
 }
-
 
 /*#subh3 {
     font-family: 'The Girl Next Door', cursive;
