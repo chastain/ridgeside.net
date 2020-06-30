@@ -22,7 +22,7 @@
 <body>
 <?php include 'includes/nav.php';?>
 
-  <h2 class="text-center p-4 shadow whitestripe">Ridgeside Gallery</h2>
+<h2 class="text-center p-4 heading">Ridgeside Gallery</h2>
 
   <h4 class="text-center p-2">Suburban living, Urban convenience</h4>
   <p class="container p-3">A small suburban community, Ridgeside is located on the east side of historic Missionary Ridge smack dab in the middle of bustling Chattanooga. Ridgeside is only minutes by automobile to the resurgent Chattanooga downtown with its restaurants, shops, galleries, hiking and cycling trails. Erlanger, Memorial, and Parkridge hospitals are within a short drive. The Univeristy of Tennessee at Chattanooga is but seven minutes over the ridge and down McCallie Avenue from the community.</p>
@@ -30,7 +30,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <div class="thumbnail"><img src="images/RdgesdeThumb-12.png" alt="Thumbnail Image 1" class="img-fluid">
+        <div class="thumbnail"><img src="images/RdgesdeThumb-12.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow">
           <div class="caption">
             <h2 class="text-center">Ridgeside Park</h2>
             <p class="text-left">Ridgesiders who live on the south side of Hilldale Drive and the north side of Ridgeside Road claim their homes are the best located in the community. Their properties border the pastoral park that stretches from the community pool on Shepherd Avenue. down the hill to Brookwood Drive. The little park was the site of the Ridgeside’s famous 1920s miniature golf course. The golf course, most of which is now long replaced by homes, existed along the little brook that still flows through the valley. Most of the stream was covered in the early days of Ridgeside, but portions still babble along. </p>
@@ -39,7 +39,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <div class="thumbnail"><img src="images/RdgesdeThumb-11.png" alt="Thumbnail Image 1" class="img-fluid">
+        <div class="thumbnail"><img src="images/RdgesdeThumb-11.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow">
           <div class="caption">
             <h2 class="text-center">Playground</h2>
             <p class="text-left">Children have for generations played in the Ridgeside Park and on the park’s playground toys. Over the years the swings, climbing structures, tables, and benches have been replaced a number of times, always with goals of safety and durability. </p>
@@ -51,7 +51,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <div class="thumbnail"><img src="images/RdgesdeThumb-04.png" alt="Thumbnail Image 1" class="img-fluid">
+        <div class="thumbnail"><img src="images/RdgesdeThumb-04.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow">
           <div class="caption">
             <h2 class="text-center">City Commission</h2>
             <p class="text-left">Ridgeside is governed by its citizens through a commission composed of the mayor and two commissioners. Officials serve four-year terms. The three candidates for office receiving the most votes are elected. Of those three, the person receiving the most votes is designated mayor. </p>
@@ -66,19 +66,18 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <div class="thumbnail"><a href="Luminaries.php"><img src="images/RdgesdeThumb-07.png" alt="Thumbnail Image 1" class="img-fluid"></a>
+        <div class="thumbnail"><a href="Luminaries.php"><img src="images/RdgesdeThumb-07.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow"></a>
           <div class="caption">
             <h2 class="text-center">Annual Luminaries</h2>
             <p class="text-left">Ridgeside’s annual Christmas street lighting or luminaries is a decades old tradition usually occurring the Monday and Tuesday before Christmas. </p>
             <p class="text-left">In case of rain or snow the day of the lighting, the event is often cancelled.
               On nights of lighting, parking along the streets is discouraged to make room for the visitors who drive through the community to enjoy Ridgeside's Christmas spirit. </p>
-            <p class="text-left">A neighborhood holiday open house is held annually on the Monday night before Christmas.</p>
-            <p class="text-center"><a href="Luminaries.php" class="btn btn-primary" role="button">More about the Luminaries</a></p>
+            <p class="text-left">A neighborhood holiday open house is held annually on the Monday night before Christmas. <a href="Luminaries.php" role="button">Learn More</a></p>
           </div>
         </div>
       </div>
       <div class="col-md-4 text-center">
-        <img src="images/pool.png" width="300" class="img-fluid">
+        <a href="https://www.ridgesidepool.com" target="_blank"><img src="images/pool.png" width="300" class="img-fluid rounded shadow" rounded shadow></a>
           <div class="caption">
             <h2 class="text-center">Community Pool</h2>
             <p class="text-left">Ridgeside’s community pool is the second on the site. In the late 1970s the first pool needed extensive repairs. A new, enlarged pool and pool house replaced the old one, and it was, until 2015, a center of community activity. The 1970s pool succumbed to the rigors of age. In 2016, community leaders were forced to close the pool. It remained closed for two seasons. During its closing, the facility was completely remodeled from foundation to lifeguard chairs. </p>
@@ -90,14 +89,13 @@
         </div>
      
     <div class="col-md-4">
-        <div class="thumbnail"><img src="images/RdgesdeThumb-02.png" alt="Thumbnail Image 1" class="img-fluid">
+        <div class="thumbnail"><img src="images/RdgesdeThumb-02.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow">
           <div class="caption">
             <h2 class="text-center">Community Club</h2>
             <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome to participate in community club activities. Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices are distributed before each meeting. </p>
-            <p class="text-left">New officers are selected in May and take office June 1st. Dues are $20.00, and pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. </p>
-            <p><br>
+            <p class="text-left">New officers are selected in May and take office June 1st. Dues are $20.00, and pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. 
+            <a href="communityclub.php" role="button">Learn More</a>
             </p>
-            <p class="text-center"><a href="communityclub.php" class="btn btn-primary" role="button">Community Club News</a></p>
           </div>
         </div>
       </div>

@@ -39,11 +39,11 @@
 <body>
 <?php include 'includes/nav.php';?>
 
-<h2 class="text-center p-4 whitestripe shadow" id="subh3">A Brief History Ridgeside</h2>
-
+<h2 class="text-center p-4 heading">A Brief History of Ridgeside</h2>
+<div class="container p-2">
       <p class="text-center">Scroll down to take a stroll through the past 100+ years of Ridgeside history.</p>
-        <div class="text-center"><img class="rounded" style="max-width: 50%; and height: auto;" src="images/RdgesdeThumb-03.png"/></div>
-        <div class="container">
+        <div class="text-center"><img class="rounded shadow" style="max-width: 50%; and height: auto;" src="images/RdgesdeThumb-03.png"/></div>
+
           <div class="wrapper">
           <section class="block">
             <div class="each-year">

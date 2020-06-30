@@ -20,17 +20,14 @@
 </head>
 <body>
 <?php include 'includes/nav.php';?>
-<div class="container">
+<h2 class="text-center p-4 heading">Ridgeside Community Club</h2>
+<div class="container p-2">
 
-  <section>
-    <article class="left_article">
-      <h2 class="text-center p-5" id="subh3">Ridgeside Community Club</h2>
-      <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome. </p>
-      <p class="text-left">Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices will be distributed for each meeting. </p>
-      <p class="text-left">New officers are selected in May and take office June 1st. </p>
-      <p class="text-left">Dues are $20.00. Dues pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. </p>
-      <p class="text-left">We want to make all newcomers feel welcome and to assist them in any way we can. The Annual July Ice Cream Social recognizes all new neighbors that have moved in to the neighborhood in the last year.  </p>
-		<p>
+  <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome. </p>
+  <p class="text-left">Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices will be distributed for each meeting. </p>
+  <p class="text-left">New officers are selected in May and take office June 1st. </p>
+  <p class="text-left">Dues are $20.00. Dues pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. </p>
+  <p class="text-left">We want to make all newcomers feel welcome and to assist them in any way we can. The Annual July Ice Cream Social recognizes all new neighbors that have moved in to the neighborhood in the last year.  </p>
 
 </div>
 

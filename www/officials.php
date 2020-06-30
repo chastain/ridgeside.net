@@ -22,9 +22,9 @@
 <body>
 <?php include 'includes/nav.php';?>
 
-<h2 class="text-center p-4 whitestripe shadow" id="subh3">Ridgeside Government Officials</h2>
+<h2 class="text-center p-4 heading">Ridgeside City Officials</h2>
 
-<div class="container">
+<div class="container p-5">
 
 <h3>Mayor</h2>
 <p>

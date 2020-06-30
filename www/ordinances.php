@@ -15,9 +15,9 @@
 </head>
 <body>
 <?php include 'includes/nav.php';?>
-<h2 class="text-center p-4 whitestripe shadow" id="subh3">Commission Ordinances and Resolutions</h2>
 
-<div class="container">
+<h2 class="text-center p-4 heading">Ridgeside Ordinances and Resolutions</h2>
+<div class="container p-2">
 
       <ul>
         <li><a href="ordinances/MayorNotesSpring2016.pdf" target="_blank">Mayor's Newsletter 2016</a></li>
