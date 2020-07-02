@@ -66,13 +66,13 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <div class="thumbnail"><a href="Luminaries.php"><img src="images/RdgesdeThumb-07.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow"></a>
+        <div class="thumbnail"><a href="luminaries.php"><img src="images/RdgesdeThumb-07.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow"></a>
           <div class="caption">
             <h2 class="text-center">Annual Luminaries</h2>
             <p class="text-left">Ridgeside’s annual Christmas street lighting or luminaries is a decades old tradition usually occurring the Monday and Tuesday before Christmas. </p>
             <p class="text-left">In case of rain or snow the day of the lighting, the event is often cancelled.
               On nights of lighting, parking along the streets is discouraged to make room for the visitors who drive through the community to enjoy Ridgeside's Christmas spirit. </p>
-            <p class="text-left">A neighborhood holiday open house is held annually on the Monday night before Christmas. <a href="Luminaries.php" role="button">Learn More</a></p>
+            <p class="text-left">A neighborhood holiday open house is held annually on the Monday night before Christmas. <a href="luminaries.php" role="button">Learn More</a></p>
           </div>
         </div>
       </div>

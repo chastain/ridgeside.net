@@ -88,7 +88,7 @@
     <div>
       <strong>CRIME DETERRENTS</strong>
       <blockquote>
-        A Neighborhood Watch Program has been in effect since 2006. Contact Karen Page at 698-1478 for the names of street captains or more information. The community also uses the the mobile phone app Village Defense with is available as a download for both iOS and Android devices. Every house should have a light at the curb. Please have your lawn gas lights repaired and in good working order. Please also lock all cars and do not leave valuables in your cars. Cars parked on the street are most susceptible, so please park in your driveway or garage.
+        Every house should have a light at the curb. Please also lock all cars and do not leave valuables in your cars. Cars parked on the street are most susceptible, so please park in your driveway or garage.
       </blockquote>
     </div>
     
@@ -129,19 +129,19 @@
       <div class="row">
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="RidgesideImages/postman.jpg" alt="" class="img-fluid"/>
+            <img src="images/postman.jpg" alt="" class="img-fluid"/>
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="RidgesideImages/walk04.jpg" alt="" class="img-fluid"/>
+            <img src="images/walk04.jpg" alt="" class="img-fluid"/>
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="RidgesideImages/Walk05.jpg" alt="" class="img-fluid"/>
+            <img src="images/Walk05.jpg" alt="" class="img-fluid"/>
           </div>
         </div>
       </div>

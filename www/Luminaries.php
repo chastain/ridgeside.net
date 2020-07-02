@@ -35,53 +35,53 @@
     <div class="container">
       <div class="row p-4">
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin12.jpg" alt="" width="400" height="248" class="img-fluid p-2"/>
+          <img src="images/lumin12.jpg" alt="" width="400" height="248" class="img-fluid p-2"/>
         </div>
 
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin14.jpg" alt="" width="400" height="267" class="img-fluid p-2"/>
+          <img src="images/lumin14.jpg" alt="" width="400" height="267" class="img-fluid p-2"/>
         </div>
 
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin10.jpg" alt="" width="400" height="300" class="img-fluid p-2"/>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-4">
-          <img src="RidgesideImages/lumin11.jpg" alt="" width="400" class="img-fluid p-2"/>
-        </div>
-
-        <div class="col-md-4">
-          <img src="RidgesideImages/lumin12.jpg" alt="" width="400" class="img-fluid p-2"/>
-        </div>
-
-        <div class="col-md-4">
-          <img src="RidgesideImages/lumin14.jpg" alt="" width="400" class="img-fluid p-2"/>
+          <img src="images/lumin10.jpg" alt="" width="400" height="300" class="img-fluid p-2"/>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin13.jpg" alt="" width="400" class="img-fluid p-2"/>
+          <img src="images/lumin11.jpg" alt="" width="400" class="img-fluid p-2"/>
         </div>
 
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin07.jpg" alt="" width="400" class="img-fluid p-2"/>
+          <img src="images/lumin12.jpg" alt="" width="400" class="img-fluid p-2"/>
         </div>
 
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin04.jpg" alt="" width="400" class="img-fluid p-2"/>
+          <img src="images/lumin14.jpg" alt="" width="400" class="img-fluid p-2"/>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin08.jpg" alt="" width="400" class="img-fluid p-2"/>
+          <img src="images/lumin13.jpg" alt="" width="400" class="img-fluid p-2"/>
         </div>
 
         <div class="col-md-4">
-          <img src="RidgesideImages/lumin03.jpg" alt="" width="400" class="img-fluid p-2"/>
+          <img src="images/lumin07.jpg" alt="" width="400" class="img-fluid p-2"/>
+        </div>
+
+        <div class="col-md-4">
+          <img src="images/lumin04.jpg" alt="" width="400" class="img-fluid p-2"/>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+          <img src="images/lumin08.jpg" alt="" width="400" class="img-fluid p-2"/>
+        </div>
+
+        <div class="col-md-4">
+          <img src="images/lumin03.jpg" alt="" width="400" class="img-fluid p-2"/>
         </div>
 
       </div>

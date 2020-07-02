@@ -95,19 +95,19 @@
       <div class="row">
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="RidgesideImages/walk02.jpg" alt="Thumbnail Image 1" class="img-fluid">
+            <img src="images/walk02.jpg" alt="Thumbnail Image 1" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="RidgesideImages/Walk05.jpg" alt="Thumbnail Image 1" class="img-fluid">
+            <img src="images/Walk05.jpg" alt="Thumbnail Image 1" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="RidgesideImages/Meeting01.jpg" alt="Thumbnail Image 1" class="img-fluid">
+            <img src="images/Meeting01.jpg" alt="Thumbnail Image 1" class="img-fluid">
           </div>
         </div>
       </div>

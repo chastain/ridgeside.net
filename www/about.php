@@ -26,7 +26,7 @@
 
 <div class="container p-3">
 
-    <p class="text-center p-2"><img src="RidgesideImages/walk01.jpg" class="img-fluid rounded shadow"/></p>
+    <p class="text-center p-2"><img src="images/walk01.jpg" class="img-fluid rounded shadow"/></p>
 
     <p class="text-left">Ridgeside began its history as the Shepherd farm on the side of Missionary Ridge. According to a 1929 newspaper article, Percy Shepherd and a group of investors seven years earlier in 1922 converted approximately 95 acres of mountainside farm land into home lots and a miniature golf course.</p>
     <p class="text-left">By 1930 they had built and sold more than 40 homes at an average cost of $19,000. They boasted their Shepherd Hills development was the first to offer natural gas east of Missionary Ridge and the houses were fireproof. The community grew. New homes were built through the years, and in the first decades of the 21st century, Ridgeside claims almost 150 residences. Ridgeside has retained a separate charter as a city. </p>
