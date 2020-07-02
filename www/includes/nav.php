@@ -19,7 +19,7 @@
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Government</a>
           <div class="dropdown-menu dropdown-menu-right">
             <a class="dropdown-item" href="officials.php">Officials</a>
-            <a class="dropdown-item" href="ordinances.php">Ordinances</a>
+            <a class="dropdown-item" href="actions.php">Commission Actions</a>
             <a class="dropdown-item" href="services.php">Services</a>
             <a class="dropdown-item" href="assets/Ridgeside-Charter.pdf">City Charter</a>
           </div>

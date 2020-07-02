@@ -57,7 +57,7 @@
             <p class="text-left">Ridgeside is governed by its citizens through a commission composed of the mayor and two commissioners. Officials serve four-year terms. The three candidates for office receiving the most votes are elected. Of those three, the person receiving the most votes is designated mayor. </p>
             <p class="text-left">Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the Greater Emmanuel Apostolic Church at 400 Tunnel Boulevard and begin at 7:00 pm. Ordinances and resolutions passed by the commissioners are publicized through this website and by email.</p>
             <p class="text-left"> All residents are encouraged to attend commission meetings. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press,</em> posted on the website, and circulated by email.</p>
-            <p class="text-center"><a href="ordinances.php" class="btn btn-primary" role="button">Commission Actions</a></p>
+            <p class="text-center"><a href="actions.php" role="button">Commission Actions</a></p>
           </div>
         </div>
       </div>
@@ -89,7 +89,8 @@
         </div>
      
     <div class="col-md-4">
-        <div class="thumbnail"><img src="images/RdgesdeThumb-02.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow">
+        <div class="thumbnail">
+        <a href="communityclub.php"><img src="images/RdgesdeThumb-02.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow"></a>
           <div class="caption">
             <h2 class="text-center">Community Club</h2>
             <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome to participate in community club activities. Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices are distributed before each meeting. </p>

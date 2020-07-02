@@ -121,7 +121,7 @@
   </div>
 
   <div class="text-center">
-    <p><a href="ordinances/InformationSheet.pdf" class="btn btn-primary" role="button">More About Services</a></p>
+    <p><a href="assets/InformationSheet.pdf" class="btn btn-primary" role="button">More About Services</a></p>
   </div>
 
 
