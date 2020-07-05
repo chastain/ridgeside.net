@@ -81,7 +81,7 @@
 
     <p></p>
       <p></p>
-      <li><strong>TOWN MEETINGS</strong> Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the Greater Emmanuel Apostolic Church at 400 Tunnel Boulevard and begin at 7:00 pm. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press</em>, posted on this website, and publicized by email. </li>
+      <li><strong>TOWN MEETINGS</strong> Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the First Lutheran Church at 2800 McCallie Ave, Chattanooga, TN and begin at 7:00 pm. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press</em>, posted on this website, and publicized by email. </li>
       <p></p>
       <li><strong>VOTING PLACE</strong> The pool office is used on all regular voting days. Please register and vote in Ridgeside. Voting days are announced in the <em>Chattanooga Times/Free Press</em>. </li>
       <p></p>

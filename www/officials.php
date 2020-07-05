@@ -29,36 +29,50 @@
 
 <h3>Mayor</h2>
 <p>
-	<strong>Mr. Kirk Walker</strong><br>
+	<h5>Mr. Kirk Walker</h5>
 	(423) 240-9551<br>
 	<a href="mailto:ridgesidemayor@gmail.com">ridgesidemayor@gmail.com</a>
 </p>
 
 <h3>Commissioner, Treasurer</h2>
 <p>
-	<strong>Mr. Darian Collins</strong><br>
+	<h5>Mr. Darian Collins</h5>
 	(303) 917-4946<br>
 	<a href="mailto:ridgesidetreasurer@gmail.com">ridgesidetreasurer@gmail.com</a>
 </p>
 
 <h3>Commissioner, Secretary</h2>
 <p>
-	<strong>Ms. Drue Zaharis</strong><br>
+	<h5>Ms. Drue Zaharis</h5>
 	(706) 224-2234<br>
 	<a href="mailto:ridgesidesecretary@gmail.com">ridgesidesecretary@gmail.com</a>
 </p>
 
+<h3>City Engineer</h3>
+<p>
+	<h5>Mr. Ron Jobe</h5>
+	(423) 622-8317<br>
+	<a href="mailto:rjobe55@gmail.com">rjobe55@gmail.com</a>
+</p>
+
 <h3>Accountant</h2>
 <p>
-	<strong>Ms. Shelly Camp</strong><br>
+	<h5>Ms. Shelly Camp</h5>
 	(423) 698-4326<br>
 	<a href="mailto:shelly@cadallcompany.com">shelly@cadallcompany.com</a>
 </p>
 
 <h3>Finance Director</h2>
 <p>
-	<strong>Mr. Brant Mason, CMFO</strong><br>
+	<h5>Mr. Brant Mason, CMFO</h5>
 	(423) 698-4326
+</p>
+
+<h3>Pool Manager</h3>
+<p>
+	<h5>Brandon Lowry</h5>
+	(423) 240-9701<br>
+	<a href="mailto:lowryb@epbfi.com">lowryb@epbfi.com</a>
 </p>
 
 <?php include 'includes/copyright.php';?>

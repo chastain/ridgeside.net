@@ -71,13 +71,12 @@
                 <p>423-622-1725</p>
               
                 <h6><strong>Garbage and Recycling</strong></h3>
-                <p>Allied Waste Services 423-867-4650</p>
-
+                <p>Republic Services +1-800-321-8128</p>
+4
                 <h6><strong>Leaf bag contained brush curbside pickup</strong></h3>
                 <p>
-                  Bill McCarthy<br>
-                  <a href="mailto:doods3113@aol.com">doods3113@aol.com</a><br>
-                  423-488-5273
+                  Cut Right Tree Service<br>
+                  423-260-1238
                 </p>
 
               <p class="text-center p-3"><a href="services.php" role="button">Learn more</a></p>
