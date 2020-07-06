@@ -27,7 +27,7 @@
   <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome. </p>
   <p class="text-left">Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices will be distributed for each meeting. Lunch is provided during our meetings.</p>
   <p class="text-left">New officers are selected in May and take office June 1st with a term limit of 2 years. </p>
-  <p class="text-left">Dues are $25.00 and are requested each January. Dues pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. </p>
+  <p class="text-left">Dues are $25.00 and are collected each January. Dues pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. </p>
   <p class="text-left">We want to make all newcomers feel welcome and to assist them in any way we can. The Annual July Ice Cream Social recognizes all new neighbors that have moved in to the neighborhood in the last year.  </p>
   <p class="text-left">Ladies nights are normally held once a month, but have been postponed for the time being due to concerns surrounding COVID-19.</p>
 
