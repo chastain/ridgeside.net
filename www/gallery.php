@@ -94,8 +94,8 @@
         <a href="communityclub.php"><img src="images/RdgesdeThumb-02.png" alt="Thumbnail Image 1" class="img-fluid rounded shadow"></a>
           <div class="caption">
             <h2 class="text-center">Community Club</h2>
-            <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome to participate in community club activities. Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices are distributed before each meeting. </p>
-            <p class="text-left">New officers are selected in May and take office June 1st. Dues are $20.00, and pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. 
+            <p class="text-left">All Shepherd Hills and Crescent Park residents are welcome to participate in community club activities. Meetings are held on the first Friday of February, May, October, and December. A Featured Speaker is always included. Notices are distributed before each meeting. Lunch is provided during our meetings.</p>
+            <p class="text-left">New officers are selected in May and take office June 1st with a term limit of 2 years. Dues are $25.00 and are requested each January. Dues pay for community items such as printing Ridgeside directory; supplies for the picnic and other socials; bags, sand, and candles for the Christmas lighting. 
             <a href="communityclub.php" role="button">Learn More</a>
             </p>
           </div>

@@ -71,8 +71,9 @@
                 <p>423-622-1725</p>
               
                 <h6><strong>Garbage and Recycling</strong></h3>
-                <p>Republic Services +1-800-321-8128</p>
-4
+                <p>Republic Services<br/>
+                +1-800-321-8128</p>
+
                 <h6><strong>Leaf bag contained brush curbside pickup</strong></h3>
                 <p>
                   Cut Right Tree Service<br>
