@@ -18,6 +18,9 @@
 <?php include 'includes/nav.php';?>
 
 <h2 class="text-center p-4 heading">Ridgeside Comission Actions</h2>
+
+<p class="text-center p-3">Archive of Comission Meeting Notes, Resolutions, and other public items.</p>
+
 <div class="container p-2">
 
   <ul>
@@ -79,54 +82,55 @@
     <li><a href="assets/commission-actions/7-16-19RegMtgMin.pdf" target="_blank">16 July 2019 Regular Meeting Minutes</a>(2019) </li>
     </ul>
 
-      <blockquote>
-        <strong>TOWN MEETINGS</strong>
-        <p>
-          Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the First Lutheran Church at 2800 McCallie Ave, Chattanooga, TN and begin at 7:00 pm. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press</em>, posted on this website, and publicized by email.
-        </p>
-      </blockquote>
-      
-      <blockquote>
-        <strong>VOTING PLACE</strong>
-        <p>
-        The pool office is used on all regular voting days. Please register and vote in Ridgeside. Voting days are announced in the <em>Chattanooga Times/Free Press</em>.
-        </p>
-      </blockquote>
-      
-      <blockquote>
-        <strong>TENNESSEE INCOME TAXES</strong>
-        <p>
-        Ridgeside receives a share of Tennessee Income taxes paid on interest from investments, etc. The code 334 should be used when filing your Tennessee State Income Tax Form (especially significant for new residents or first time filers).
-        </p>
-      </blockquote>
-      
-      <blockquote>
-        <strong>STREET PARKING</strong>
-        <p>
-        Please do not park your car on the street. Cars parked on the street obstruct vision, detract from the beauty of our neighborhood, and are a traffic hazard/danger to children. Street parked cars also attract nefarious non-resident villans intent upon easy pilfering. Please park in your driveway or garage.
-        </p>
-      </blockquote>
-
+    <blockquote>
+      <strong>TOWN MEETINGS</strong>
+      <p>
+        Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the First Lutheran Church at 2800 McCallie Ave, Chattanooga, TN and begin at 7:00 pm. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press</em>, posted on this website, and publicized by email.
+      </p>
+    </blockquote>
+    
+    <blockquote>
+      <strong>VOTING PLACE</strong>
+      <p>
+      The pool office is used on all regular voting days. Please register and vote in Ridgeside. Voting days are announced in the <em>Chattanooga Times/Free Press</em>.
+      </p>
+    </blockquote>
+    
+    <blockquote>
+      <strong>TENNESSEE INCOME TAXES</strong>
+      <p>
+      Ridgeside receives a share of Tennessee Income taxes paid on interest from investments, etc. The code 334 should be used when filing your Tennessee State Income Tax Form (especially significant for new residents or first time filers).
+      </p>
+    </blockquote>
+    
+    <blockquote>
+      <strong>STREET PARKING</strong>
+      <p>
+      Please do not park your car on the street. Cars parked on the street obstruct vision, detract from the beauty of our neighborhood, and are a traffic hazard/danger to children. Street parked cars also attract nefarious non-resident villans intent upon easy pilfering. Please park in your driveway or garage.
+      </p>
+    </blockquote>
 
     <div class="container">
       <div class="row">
+
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="images/walk02.jpg" alt="Thumbnail Image 1" class="img-fluid">
+            <img src="images/walk02.jpg" alt="Thumbnail Image 1" class="img-fluid rounded">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="images/Walk05.jpg" alt="Thumbnail Image 1" class="img-fluid">
+            <img src="images/Meeting01.jpg" alt="Thumbnail Image 1" class="img-fluid rounded">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="thumbnail">
-            <img src="images/Meeting01.jpg" alt="Thumbnail Image 1" class="img-fluid">
+            <img src="images/Walk05.jpg" alt="Thumbnail Image 1" class="img-fluid rounded">
           </div>
         </div>
+
       </div>
     </div>
 
