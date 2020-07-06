@@ -79,16 +79,35 @@
     <li><a href="assets/commission-actions/7-16-19RegMtgMin.pdf" target="_blank">16 July 2019 Regular Meeting Minutes</a>(2019) </li>
     </ul>
 
-    <p></p>
-      <p></p>
-      <li><strong>TOWN MEETINGS</strong> Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the First Lutheran Church at 2800 McCallie Ave, Chattanooga, TN and begin at 7:00 pm. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press</em>, posted on this website, and publicized by email. </li>
-      <p></p>
-      <li><strong>VOTING PLACE</strong> The pool office is used on all regular voting days. Please register and vote in Ridgeside. Voting days are announced in the <em>Chattanooga Times/Free Press</em>. </li>
-      <p></p>
-      <li><strong>TENNESSEE INCOME TAXES</strong> Ridgeside receives a share of Tennessee Income taxes paid on interest from investments, etc. The code 334 should be used when filing your Tennessee State Income Tax Form (especially significant for new residents or first time filers). </li>
-      <p></p>
-      <li><strong>STREET PARKING</strong> Please do not park your car on the street. Cars parked on the street obstruct vision, detract from the beauty of our neighborhood, and are a traffic hazard/danger to children. Street parked cars also attract nefarious non-resident villans intent upon easy pilfering. Please park in your driveway or garage. </li>
-      <p></p>
+
+      <blockquote>
+        <strong>TOWN MEETINGS</strong>
+        <p>
+          Regular town meetings are held on the third Tuesday of January, April, July, and October. Meetings are held at the First Lutheran Church at 2800 McCallie Ave, Chattanooga, TN and begin at 7:00 pm. Notices of these meetings are printed in the <em>Chattanooga Times / Free Press</em>, posted on this website, and publicized by email.
+        </p>
+      </blockquote>
+      
+      <blockquote>
+        <strong>VOTING PLACE</strong>
+        <p>
+        The pool office is used on all regular voting days. Please register and vote in Ridgeside. Voting days are announced in the <em>Chattanooga Times/Free Press</em>.
+        </p>
+      </blockquote>
+      
+      <blockquote>
+        <strong>TENNESSEE INCOME TAXES</strong>
+        <p>
+        Ridgeside receives a share of Tennessee Income taxes paid on interest from investments, etc. The code 334 should be used when filing your Tennessee State Income Tax Form (especially significant for new residents or first time filers).
+        </p>
+      </blockquote>
+      
+      <blockquote>
+        <strong>STREET PARKING</strong>
+        <p>
+        Please do not park your car on the street. Cars parked on the street obstruct vision, detract from the beauty of our neighborhood, and are a traffic hazard/danger to children. Street parked cars also attract nefarious non-resident villans intent upon easy pilfering. Please park in your driveway or garage.
+        </p>
+      </blockquote>
+
 
     <div class="container">
       <div class="row">
