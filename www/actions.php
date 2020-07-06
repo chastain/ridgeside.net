@@ -79,7 +79,6 @@
     <li><a href="assets/commission-actions/7-16-19RegMtgMin.pdf" target="_blank">16 July 2019 Regular Meeting Minutes</a>(2019) </li>
     </ul>
 
-
       <blockquote>
         <strong>TOWN MEETINGS</strong>
         <p>
