@@ -71,7 +71,7 @@
   <li><a href="assets/commission-actions/7-16-19RegMtgMin.pdf" target="_blank">16 July 2019 Regular Meeting Minutes</a>(2019) </li>
 </ul>
 
-  <h3>Policies</h3>
+<h3>Policies</h3>
 <ul>
   <li><a href="assets/commission-actions/Sexual Harrassment Policy 2007-01.pdf" target="_blank">Sexual Harassment Policy</a> (2007)</li>
   <li><a href="assets/commission-actions/OpenRecords Pol.pdf" target="_blank"> Open Records Policy</a> (2017) </li>
@@ -118,13 +118,8 @@
       Ridgeside receives a share of Tennessee Income taxes paid on interest from investments, etc. The code 334 should be used when filing your Tennessee State Income Tax Form (especially significant for new residents or first time filers).
       </p>
     </blockquote>
-    
-    <blockquote>
-      <strong>STREET PARKING</strong>
-      <p>
-      Please do not park your car on the street. Cars parked on the street obstruct vision, detract from the beauty of our neighborhood, and are a traffic hazard/danger to children. Street parked cars also attract nefarious non-resident villans intent upon easy pilfering. Please park in your driveway or garage.
-      </p>
-    </blockquote>
+
+    <div class="p-2"></div>
 
     <div class="container">
       <div class="row">
