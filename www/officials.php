@@ -37,13 +37,6 @@
 	<a href="mailto:ridgesidesecretary@gmail.com">ridgesidesecretary@gmail.com</a>
 </p>
 
-<h3>City Engineer</h3>
-<p>
-	<h5>Mr. Ron Jobe</h5>
-	(423) 322-0911<br>
-	<a href="mailto:rjobe55@gmail.com">rjobe55@gmail.com</a>
-</p>
-
 <h3>Accountant</h2>
 <p>
 	<h5>Ms. Shelly Camp</h5>
@@ -55,6 +48,13 @@
 <p>
 	<h5>Mr. Brant Mason, CMFO</h5>
 	(423) 698-4326
+</p>
+
+<h3>City Maintenance Consultant </h3>
+<p>
+	<h5>Mr. Ron Jobe</h5>
+	(423) 322-0911<br>
+	<a href="mailto:rjobe55@gmail.com">rjobe55@gmail.com</a>
 </p>
 
 <h3>Pool Manager</h3>
