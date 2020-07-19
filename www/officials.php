@@ -13,8 +13,6 @@
 			width: 20rem;
 			height: 10rem;
 
-			margin: 0 auto; /* Added */
-			float: none; /* Added */
 			margin-bottom: 10px; /* Added */
 			margin-right: 10px;
 		}
@@ -28,7 +26,7 @@
 
 <div class="container-fluid p-4">
 
-	<div class="card shadow-lg">
+	<div class="card shadow">
 	<div class="card-body">
 	<h4 class="card-title">Mr. Kirk Walker</h4>
 		<p class="card-text">
@@ -39,7 +37,7 @@
 	</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 	<div class="card-body">
 	<h4 class="card-title">Mr. Darian Collins</h4>
 		<p class="card-text">
@@ -50,7 +48,7 @@
 	</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 		<div class="card-body">
 		<h4 class="card-title">Ms. Drue Zaharis</h4>
 			<p class="card-text">
@@ -61,7 +59,7 @@
 		</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 		<div class="card-body">
 		<h4 class="card-title">Ms. Shelly Camp</h4>
 			<p class="card-text">
@@ -72,7 +70,7 @@
 		</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 		<div class="card-body">
 		<h4 class="card-title">Mr. Brant Mason, CMFO</h4>
 			<p class="card-text">
@@ -83,7 +81,7 @@
 		</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 		<div class="card-body">
 		<h4 class="card-title">Mrs. Janet Jobe</h4>
 			<p class="card-text">
@@ -94,7 +92,7 @@
 		</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 		<div class="card-body">
 		<h4 class="card-title">Mr. Ron Jobe</h4>
 			<p class="card-text">
@@ -105,7 +103,7 @@
 		</div>
 	</div>
 
-	<div class="card shadow-lg" >
+	<div class="card shadow" >
 		<div class="card-body">
 		<h4 class="card-title">Mr. Brandon Lowry</h4>
 			<p class="card-text">
