@@ -7,6 +7,18 @@
 	<link rel="icon" href="images/R.png">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
+	<style>
+		.card {
+			display:inline-block;
+			width: 20rem;
+			height: 10rem;
+
+			margin: 0 auto; /* Added */
+			float: none; /* Added */
+			margin-bottom: 10px; /* Added */
+			margin-right: 10px;
+		}
+	</style>
 	<?php include 'includes/analytics.php';?>
 </head>
 <body>
@@ -14,57 +26,97 @@
 
 <h2 class="text-center p-4 heading">Ridgeside City Officials</h2>
 
-<div class="container p-5">
+<div class="container-fluid p-4">
 
-<h3>Mayor</h2>
-<p>
-	<h5>Mr. Kirk Walker</h5>
-	(423) 240-9551<br>
-	<a href="mailto:ridgesidemayor@gmail.com">ridgesidemayor@gmail.com</a>
-</p>
+	<div class="card shadow-lg">
+	<div class="card-body">
+	<h4 class="card-title">Mr. Kirk Walker</h4>
+		<p class="card-text">
+			<h5>Mayor</h5>
+			(423) 240-9551<br>
+			<a href="mailto:ridgesidemayor@gmail.com">ridgesidemayor@gmail.com</a>
+		</p>
+	</div>
+	</div>
 
-<h3>Commissioner, Treasurer</h2>
-<p>
-	<h5>Mr. Darian Collins</h5>
-	(303) 917-4946<br>
-	<a href="mailto:ridgesidetreasurer@gmail.com">ridgesidetreasurer@gmail.com</a>
-</p>
+	<div class="card shadow-lg" >
+	<div class="card-body">
+	<h4 class="card-title">Mr. Darian Collins</h4>
+		<p class="card-text">
+			<h5>Commissioner, Treasurer</h5>
+			(303) 917-4946<br>
+			<a href="mailto:ridgesidetreasurer@gmail.com">ridgesidetreasurer@gmail.com</a>
+		</p>
+	</div>
+	</div>
 
-<h3>Commissioner, Secretary</h2>
-<p>
-	<h5>Ms. Drue Zaharis</h5>
-	(706) 224-2234<br>
-	<a href="mailto:ridgesidesecretary@gmail.com">ridgesidesecretary@gmail.com</a>
-</p>
+	<div class="card shadow-lg" >
+		<div class="card-body">
+		<h4 class="card-title">Ms. Drue Zaharis</h4>
+			<p class="card-text">
+				<h5>Commissioner, Secretary</h5>
+				(706) 224-2234<br>
+				<a href="mailto:ridgesidesecretary@gmail.com">ridgesidesecretary@gmail.com</a>
+			</p>
+		</div>
+	</div>
 
-<h3>Accountant</h2>
-<p>
-	<h5>Ms. Shelly Camp</h5>
-	(423) 698-4326<br>
-	<a href="mailto:shelly@cadallcompany.com">shelly@cadallcompany.com</a>
-</p>
+	<div class="card shadow-lg" >
+		<div class="card-body">
+		<h4 class="card-title">Ms. Shelly Camp</h4>
+			<p class="card-text">
+				<h5>Accountant</h5>
+				(423) 698-4326<br>
+				<a href="mailto:shelly@cadallcompany.com">shelly@cadallcompany.com</a>
+			</p>
+		</div>
+	</div>
 
-<h3>Finance Director</h2>
-<p>
-	<h5>Mr. Brant Mason, CMFO</h5>
-	(423) 698-4326
-</p>
+	<div class="card shadow-lg" >
+		<div class="card-body">
+		<h4 class="card-title">Mr. Brant Mason, CMFO</h4>
+			<p class="card-text">
+				<h5>Finance Director</h5>
+				(423) 698-4326<br>
+				<br>
+			</p>
+		</div>
+	</div>
 
-<h3>City Maintenance Consultant </h3>
-<p>
-	<h5>Mr. Ron Jobe</h5>
-	(423) 322-0911<br>
-	<a href="mailto:rjobe55@gmail.com">rjobe55@gmail.com</a>
-</p>
+	<div class="card shadow-lg" >
+		<div class="card-body">
+		<h4 class="card-title">Mrs. Janet Jobe</h4>
+			<p class="card-text">
+				<h5>Financial Consultant</h5>
+				<a href="mailto:janetjobe@gmail.com">janetjobe@gmail.com</a><br>
+				<br>
+			</p>
+		</div>
+	</div>
 
-<h3>Pool Manager</h3>
-<p>
-	<h5>Brandon Lowry</h5>
-	(423) 240-9701<br>
-	<a href="mailto:lowryb@epbfi.com">lowryb@epbfi.com</a>
-</p>
+	<div class="card shadow-lg" >
+		<div class="card-body">
+		<h4 class="card-title">Mr. Ron Jobe</h4>
+			<p class="card-text">
+				<h5>Project Consultant</h5>
+				(423) 322-0911<br>
+				<a href="mailto:rjobe55@gmail.com">rjobe55@gmail.com</a>
+			</p>
+		</div>
+	</div>
 
-<?php include 'includes/copyright.php';?>
+	<div class="card shadow-lg" >
+		<div class="card-body">
+		<h4 class="card-title">Mr. Brandon Lowry</h4>
+			<p class="card-text">
+				<h5>Pool Manager</h5>
+				(423) 240-9701<br>
+				<a href="mailto:lowryb@epbfi.com">lowryb@epbfi.com</a>
+			</p>
+		</div>
+	</div>
+
+	<?php include 'includes/copyright.php';?>
 
 </div>
 
