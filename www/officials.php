@@ -59,61 +59,6 @@
 		</div>
 	</div>
 
-	<div class="card shadow" >
-		<div class="card-body">
-		<h4 class="card-title">Ms. Shelly Camp</h4>
-			<p class="card-text">
-				<h5>Accountant</h5>
-				(423) 698-4326<br>
-				<a href="mailto:shelly@cadallcompany.com">shelly@cadallcompany.com</a>
-			</p>
-		</div>
-	</div>
-
-	<div class="card shadow" >
-		<div class="card-body">
-		<h4 class="card-title">Mr. Brant Mason, CMFO</h4>
-			<p class="card-text">
-				<h5>Finance Director</h5>
-				(423) 698-4326<br>
-				<br>
-			</p>
-		</div>
-	</div>
-
-	<div class="card shadow" >
-		<div class="card-body">
-		<h4 class="card-title">Mrs. Janet Jobe</h4>
-			<p class="card-text">
-				<h5>Financial Consultant</h5>
-				<a href="mailto:janetjobe@gmail.com">janetjobe@gmail.com</a><br>
-				<br>
-			</p>
-		</div>
-	</div>
-
-	<div class="card shadow" >
-		<div class="card-body">
-		<h4 class="card-title">Mr. Ron Jobe</h4>
-			<p class="card-text">
-				<h5>Project Consultant</h5>
-				(423) 322-0911<br>
-				<a href="mailto:rjobe55@gmail.com">rjobe55@gmail.com</a>
-			</p>
-		</div>
-	</div>
-
-	<div class="card shadow" >
-		<div class="card-body">
-		<h4 class="card-title">Mr. Brandon Lowry</h4>
-			<p class="card-text">
-				<h5>Pool Manager</h5>
-				(423) 240-9701<br>
-				<a href="mailto:lowryb@epbfi.com">lowryb@epbfi.com</a>
-			</p>
-		</div>
-	</div>
-
 	<?php include 'includes/copyright.php';?>
 
 </div>
