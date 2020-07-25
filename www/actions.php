@@ -18,26 +18,41 @@
 
 	<p class="text-center p-2"><img src="images/Meeting01.jpg" style="max-height:300px;" class="img-fluid rounded shadow"/></p>
 
-	<div class="text-center">
-	<h1>2020</h1>
+	<h2 class="text-center">2020</h2>
 
-	<h3><strong>January 21</strong></h3>
-	<h4><a href="https://drive.google.com/file/d/1F5cxq0BOdpKVxP3sz83wSaOx4v30Ww2r/view?usp=sharing" target="_blank">Quarterly City Commission Meeting</a></h4>
+	<p class="text-center">This page has direct links to 2020 meeting minutes for quick and easy reference. </p>
 
-	<h3><strong>May 19</strong></h3>
-	<h4><a href="https://drive.google.com/file/d/1Xsl7ayK7euAYkXBRz60WmgtVhfLuslFz/view?usp=sharing" target="_blank">First Special Commission Meeting Budget Reading</a></h4>
+	<table class="table">
+		<thead class="thead-dark">
+			<tr>
+			<th scope="col">Date</th>
+			<th scope="col">Meeting</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+			<td>January 21</td>
+			<td><a href="https://drive.google.com/file/d/1F5cxq0BOdpKVxP3sz83wSaOx4v30Ww2r/view?usp=sharing" target="_blank">Quarterly City Commission Meeting</a></td>
+			</tr>
+			<tr>
+			<td>May 19</td>
+			<td><a href="https://drive.google.com/file/d/1Xsl7ayK7euAYkXBRz60WmgtVhfLuslFz/view?usp=sharing" target="_blank">First Special Commission Meeting Budget Reading</a></td>
+			</tr>
+			<tr>
+			<td>June 9</td>
+			<td><a href="https://drive.google.com/file/d/1FK9aIHzvPW2iYmYiiykznSkcbH6xm5Ro/view?usp=sharing" target="_blank">Second Special Commission Meeting Budget Reading<a></td>
+			</tr>
+		</tbody>
+	</table>
 
-	<h3><strong>June 9</strong></h3>
-	<h4><a href="https://drive.google.com/file/d/1FK9aIHzvPW2iYmYiiykznSkcbH6xm5Ro/view?usp=sharing" target="_blank">Second Special Commission Meeting Budget Reading<a></h4>
-	</div>
 </div>
 
-<div class="container p-3">
-	<h3>Historic Records</h3>
-	<p>In adherance to our Open Records Policy, all Ridgeside Committee Regular and Special Meeting Minutes, Ordinances, and Resolutions are made available to the public on Google drive. <br>
-	<br>Using Google Drive enables easier searching, sorting, previewing, and downloading of all Documents.</p>
+<div class="container p-3 text-center">
+	<p>
+		All other public records, including meeting minutes, ordinances, and resolutions are available in Google drive.
+	</p>
 	
-	<h4 class="text-center"><a target="_blank" href="https://drive.google.com/drive/folders/16jfLqwyxEiJOFex6Yb3oGK-GSRTT0WWt?usp=sharing">Visit the Ridgeside City Document Archive</a></h4>
+	<h4 class="text-center"><a target="_blank" href="https://drive.google.com/drive/folders/16jfLqwyxEiJOFex6Yb3oGK-GSRTT0WWt?usp=sharing">Visit the City of Ridgeside Public Document Archive</a></h4>
 </div>
 
 	<?php include 'includes/copyright.php';?>
