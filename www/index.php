@@ -16,15 +16,20 @@
 
 <div class="carousel-inner">
 	<div class="carousel-item active">
-		<img src="images/RdgesdeHdr-1.png" class="d-block w-100" alt="...">
+		<img src="images/carousel.1.jpg" class="d-block w-100">
 	</div>
 	<div class="carousel-item">
-		<img src="images/RdgesdeHdr-5.png" class="d-block w-100" alt="...">
+		<img src="images/carousel.2.jpg" class="d-block w-100">
 	</div>
 	<div class="carousel-item">
-		<img src="images/RdgesdeHdr-4.png" class="d-block w-100" alt="...">
+		<img src="images/carousel.3.jpg" class="d-block w-100">
 	</div>
-
+	<div class="carousel-item">
+		<img src="images/carousel.4.jpg" class="d-block w-100">
+	</div>
+	<div class="carousel-item">
+		<img src="images/carousel.5.jpg" class="d-block w-100">
+	</div>
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
@@ -37,7 +42,8 @@
 
 <div class="container p-4">
 	<h5 class="text-center">Welcome to Ridgeside, Tennessee, a City within a City!</h5>
-	<p>The entire population of Ridgeside could fit into the orchestra level of the surrounding Chattanooga's Tivoli Theatre — and the theatre would still be three-fifths empty. Ridgeside resident and former major Brant Mason describes his little city as a "tight community." It is a city of less than 400 people. “Everyone knows each other and we’ve always enjoyed our independence."</p>
+	<p>With a population of less than 400, all of the citizens of Ridgeside could fit into the orchestra level of the surrounding Chattanooga's Tivoli Theatre — and the theatre would still be three-fifths empty. With a great sense of community, Ridgeside is truly a city that feels like a neighborhood.</p>
+
 </div>
 
 	<div class="container">
