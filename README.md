@@ -14,15 +14,14 @@ VSCode extension for FTP...
 	VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=liximomo.sftp
 
 sftp.json settings
+
 	{
-		"name": "Ridgeside.net",
-		"host": "ftp.ridgeside.net",
-    "protocol": "ftp",
-    "port": 21,
-    "username": "eric@ridgeside.net",
-    "password": "",
-    "remotePath": "/public_html",
-    "uploadOnSave": true
+	"name": "Ridgeside.net",
+	"host": "ftp.ridgeside.net",
+	"protocol": "ftp",
+	"port": 21,
+	"username": "eric@ridgeside.net",
+	"password": "",
+	"remotePath": "/public_html",
+	"uploadOnSave": true
 	}
-
-
