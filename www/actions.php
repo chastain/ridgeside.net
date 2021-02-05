@@ -51,7 +51,7 @@
 
 			<tr>
 			<td>January 21, 2020</td>
-			<td><a href="https://drive.google.com/file/d/1F5cxq0BOdpKVxP3sz83wSaOx4v30Ww2r/view?usp=sharing" target="_blank">Quarterly City Commission Meeting</a></td>
+			<td><a href="https://drive.google.com/file/d/1F5cxq0BOdpKVxP3sz83wSaOx4v30Ww2r/view?usp=sharing" target="_blank">Minutes from Quarterly City Commission Meeting</a></td>
 			</tr>
 
 		</tbody>
