@@ -18,9 +18,7 @@
 
 	<p class="text-center p-2"><img src="images/Meeting01.jpg" style="max-height:300px;" class="img-fluid rounded shadow"/></p>
 
-	<h2 class="text-center">2020</h2>
-
-	<p class="text-center">This page has direct links to 2020 meeting minutes for quick and easy reference. </p>
+	<p class="text-center">This page links directly to our most recent meeting notes, if you'd like to find something older click the archive link below. </p>
 
 	<table class="table">
 		<thead class="thead-dark">
@@ -30,18 +28,32 @@
 			</tr>
 		</thead>
 		<tbody>
+
 			<tr>
-			<td>January 21</td>
-			<td><a href="https://drive.google.com/file/d/1F5cxq0BOdpKVxP3sz83wSaOx4v30Ww2r/view?usp=sharing" target="_blank">Quarterly City Commission Meeting</a></td>
+			<td>October 20, 2020</td>
+			<td><a href="https://drive.google.com/file/d/10aWoh0Bnq7inbGJ2jiZBx6BWdtxTpbpk/view?usp=sharing" target="_blank">Minutes from Quarterly City Commission Meeting<a></td>
 			</tr>
+
 			<tr>
-			<td>May 19</td>
-			<td><a href="https://drive.google.com/file/d/1Xsl7ayK7euAYkXBRz60WmgtVhfLuslFz/view?usp=sharing" target="_blank">First Special Commission Meeting Budget Reading</a></td>
+			<td>July 21, 2020</td>
+			<td><a href="https://drive.google.com/file/d/1GDmyGQvzJV4ginjHQv05Il5kVShTSm33/view?usp=sharing" target="_blank">Minutes from Quarterly City Commission Meeting<a></td>
 			</tr>
+
 			<tr>
-			<td>June 9</td>
+			<td>June 9, 2020</td>
 			<td><a href="https://drive.google.com/file/d/1FK9aIHzvPW2iYmYiiykznSkcbH6xm5Ro/view?usp=sharing" target="_blank">Second Special Commission Meeting Budget Reading<a></td>
 			</tr>
+
+			<tr>
+			<td>May 19, 2020</td>
+			<td><a href="https://drive.google.com/file/d/1Xsl7ayK7euAYkXBRz60WmgtVhfLuslFz/view?usp=sharing" target="_blank">First Special Commission Meeting Budget Reading</a></td>
+			</tr>
+
+			<tr>
+			<td>January 21, 2020</td>
+			<td><a href="https://drive.google.com/file/d/1F5cxq0BOdpKVxP3sz83wSaOx4v30Ww2r/view?usp=sharing" target="_blank">Quarterly City Commission Meeting</a></td>
+			</tr>
+
 		</tbody>
 	</table>
 
