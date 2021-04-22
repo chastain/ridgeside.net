@@ -30,6 +30,11 @@
 		<tbody>
 
 			<tr>
+				<td>January 19, 2021</td>
+				<td><a href="https://drive.google.com/file/d/1HxERb75OqTzCyZFxZ1BB8y5ZeBLY3UlY/view?usp=sharing" target="_blank">Minutes from Quarterly City Commission Meeting<a></td>
+			</tr>
+
+			<tr>
 			<td>October 20, 2020</td>
 			<td><a href="https://drive.google.com/file/d/10aWoh0Bnq7inbGJ2jiZBx6BWdtxTpbpk/view?usp=sharing" target="_blank">Minutes from Quarterly City Commission Meeting<a></td>
 			</tr>
